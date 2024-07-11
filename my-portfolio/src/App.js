@@ -6,11 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1 align="center">Hi 👋, I'm Talaini Mohammed</h1>
-        <h3 align="center">A passionate backend developer</h3>
-        <p align="center">
-          🌱 I’m currently learning <strong>python, flask, php, javascript</strong>
-        </p>
-        <h3 align="center">Projects I worked on</h3>
+        <h3 align="center">Junior Fullstack Developer. I am passionate about
+innovation and solving complex challenges. I am committed to providing efficient and
+creative solutions that will maximize the impact of your projects .
+</h3>
+
+        <h3 align="center">Personal Projects I worked on</h3>
         <table align="center">
           <thead>
             <tr>
